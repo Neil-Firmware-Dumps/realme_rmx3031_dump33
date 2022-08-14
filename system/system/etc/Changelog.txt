@@ -1,0 +1,183 @@
+====================
+     08-13-2022
+====================
+
+   * build/make
+23bf608 Merge 'lineage-19.1' into 12.1
+
+   * frameworks/base
+94bd27ede1e8 telephony: SmsMessage: Bring newFromCDS method back
+6a20a518a204 fix
+
+   * libcore
+8a6cd10 Fix a warning in OldStackTraceElementTest due to missing JNI method implementation
+
+   * packages/apps/Dialer
+ccc25fd New Crowdin updates (#14)
+
+   * packages/apps/GameSpace
+3563974 New Crowdin updates (#20)
+
+   * packages/apps/Launcher3
+06a07be New Crowdin updates (#268)
+
+   * packages/apps/Updater
+3bf8c4b New translations (#38)
+
+   * packages/apps/crDroidSettings
+263d79e New Crowdin updates (#951)
+
+   * system/update_engine
+93c33a6 Cleanup DAP state before installing new OTA
+
+====================
+     08-12-2022
+====================
+
+   * android
+23aa26f manifest: Track Telephony
+
+   * art
+fcb1416 Propagating values from if clauses to its successors
+
+   * bionic
+8ba20dc bionic: fix broken end atrace events
+
+   * frameworks/av
+d6d9a6d Changing max SampleRate limits for raw audio decoder
+
+   * frameworks/base
+0b290090442f Changing max SampleRate limits for raw audio decoder
+
+   * frameworks/native
+d7bbc32 Fix spot not disappear in some case
+
+   * frameworks/opt/telephony
+89d2111 Change the location of lock
+
+   * packages/apps/Jelly
+d1945e2 Jelly: Fix Baidu Search Suggestion Provider
+
+   * packages/apps/Messaging
+a985c5d Remove uses of Time.
+
+   * packages/apps/Settings
+95233d6 Settings: Add a preference to battery optimization page
+
+   * packages/services/Telecomm
+7008f4c cleanupOrphanPA's feature (1/2)*
+
+   * packages/services/Telephony
+f5f8b68 allow phone error messages from lock screen
+
+====================
+     08-11-2022
+====================
+
+   * hardware/qcom-caf/sm8150/display
+265cf17 sdm: get around client compositioning for FOD pressed layer
+
+====================
+     08-10-2022
+====================
+
+   * lineage-sdk
+06e4e80 Battery light: 100% charged level (3/3)
+
+   * system/bt
+39cf03a Merge 'lineage-19.1' into 12.1
+
+   * vendor/lineage
+abaa4c4 crdroid: Bump to version 8.8
+
+   * vendor/qcom/opensource/commonsys/system/bt
+9ba748a Merge 'lineage-19.1' into 12.1
+
+====================
+     08-09-2022
+====================
+
+   * packages/modules/Connectivity
+dc770ac Merge pull request #2 from zlewchan/12.1
+
+====================
+     08-08-2022
+====================
+
+   * device/lineage/sepolicy
+e91706f Merge 'lineage-19.1' into 12.1
+
+   * kernel/realme/RMX3031
+81d89cf99315 Merge branch 'android-4.14-stable' of https://android.googlesource.com/kernel/common into 12.1
+41555621939f Merge https://github.com/trax85/Citrus-ALPS into 12.1
+
+   * packages/apps/AudioFX
+86b398f Merge 'lineage-19.1' into 12.1
+
+   * packages/apps/Etar
+234bee6 Etar: Use system theme by default
+
+   * packages/apps/LineageParts
+96f4457 Update color mode preview from Android 12
+
+   * packages/apps/Profiles
+a658f6f Merge 'lineage-19.1' into 12.1
+
+   * packages/apps/SetupWizard
+c8b63c1 Move navigation settings to the end
+
+   * packages/inputmethods/LatinIME
+ef66337 Merge 'lineage-19.1' into 12.1
+
+   * prebuilts/tools-lineage
+94c16e0 Remove lz4 prebuilts
+
+====================
+     08-07-2022
+====================
+
+====================
+     08-06-2022
+====================
+
+   * packages/apps/LineageCustomizer
+443847e LineageCustomizer: Move to product
+
+====================
+     08-05-2022
+====================
+
+   * hardware/google/pixel-sepolicy
+4f8794a Move turbo_adapter policy out of googlebattery
+
+   * packages/providers/ContactsProvider
+030d60d enforce stricter CallLogProvider query
+
+   * tools/extract-utils
+929c9b9 Allow re-using extracted content
+
+   * vendor/addons
+02b46d1 addons: overlay: Add dark mode support for `colorAccentPrimary`
+
+====================
+     08-04-2022
+====================
+
+   * packages/apps/Eleven
+186ecd5 Automatic translation import
+
+   * packages/apps/Recorder
+19218a0 Automatic translation import
+
+   * packages/providers/DownloadProvider
+050d1d8 Automatic translation import
+
+   * packages/resources/devicesettings
+3bcf35b Automatic translation import
+
+   * vendor/crowdin
+7151a40 Automatic translation import
+
+   * vendor/qcom/opensource/fm-commonsys
+0565ea9 Automatic translation import
+

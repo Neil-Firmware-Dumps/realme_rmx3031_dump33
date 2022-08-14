@@ -1,0 +1,62 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.product.brand=realme
+ro.product.product.device=RMX3031
+ro.product.product.manufacturer=realme
+ro.product.product.model=Realme X7 Max 5G
+ro.product.product.name=lineage_RMX3031
+ro.product.build.date=Sat Aug 13 19:01:12 CEST 2022
+ro.product.build.date.utc=1660410072
+ro.product.build.fingerprint=oplus/ossi/ossi:12/SP1A.210812.016/1653047465326:user/release-keys
+ro.product.build.id=SQ3A.220705.004
+ro.product.build.tags=release-keys
+ro.product.build.type=userdebug
+ro.product.build.version.incremental=1660409636
+ro.product.build.version.release=12
+ro.product.build.version.release_or_codename=12
+ro.product.build.version.sdk=32
+####################################
+# from variable ADDITIONAL_PRODUCT_PROPERTIES
+####################################
+ro.product.vndk.version=32
+ro.build.characteristics=default
+####################################
+# from variable PRODUCT_PRODUCT_PROPERTIES
+####################################
+ro.apex.updatable=false
+persist.bluetooth.bluetooth_audio_hal.disabled=true
+persist.bluetooth.a2dp_offload.disabled=true
+ro.bluetooth.a2dp_offload.supported=false
+ro.soc.manufacturer=Mediatek
+ro.soc.model=MT6893
+ro.boot.realme.lockstate=0
+ro.com.google.ime.kb_pad_port_b=1
+ro.com.google.ime.corner_key_r=35
+persist.device_config.runtime_native.usap_pool_enabled=true
+ro.crypto.dm_default_key.options_format.version=2
+ro.crypto.volume.filenames_mode=aes-256-cts
+ro.crypto.volume.metadata.method=dm-default-key
+ro.crypto.volume.options=::v2
+persist.device_config.runtime_native_boot.iorap_readahead_enable=true
+ro.surface_flinger.use_color_management=true
+ro.surface_flinger.has_wide_color_display=true
+ro.surface_flinger.has_HDR_display=true
+debug.sf.use_phase_offsets_as_durations=1
+debug.sf.late.sf.duration=27600000
+debug.sf.late.app.duration=20000000
+debug.sf.early.sf.duration=27600000
+debug.sf.early.app.duration=20000000
+debug.sf.earlyGl.sf.duration=27600000
+debug.sf.earlyGl.app.duration=20000000
+debug.sf.hwc.min.duration=17000000
+ro.crdroid.build_security_patch=2022-08-05
+ro.input.video_enabled=false
+ro.config.notification_sound=Argon.ogg
+ro.config.alarm_alert=Hassium.ogg
+ro.support_one_handed_mode=true
+ro.config.ringtone=Orion.ogg
+# Auto-added by post_process_props.py
+persist.sys.usb.config=none
+# end of file
